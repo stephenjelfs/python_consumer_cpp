@@ -2,7 +2,8 @@ build/
 dist/
 _build/
 _generate/
-cmake-build-*
+cmake-build-*/
+.idea/
 *.so
 *.py[cod]
 *.egg-info
